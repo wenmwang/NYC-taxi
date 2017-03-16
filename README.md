@@ -11,8 +11,11 @@ The analysis itself involves exploratory data analysis and unsupervised learning
 ## Results
 Here are some examples of analysis results visualized.
 
+### Rush Hour Trip Time to JFK Choropleth Map
 ![Rush Hour Trip Time to JFK Heat Map](https://github.com/wenmwang/NYC-taxi/blob/master/JFK_r.png)
 
+### Rush Hour Trip Time to LGA Choropleth Map
 ![Rush Hour Trip Time to LGA Heat Map](https://github.com/wenmwang/NYC-taxi/blob/master/LGA_r.png)
 
+### Trip Time Range from Midtown to JFK by Trip Hour
 ![Trip Time range from Midtown to JFK by trip start hour](https://github.com/wenmwang/NYC-taxi/blob/master/trip_length_to_JFK.png)
