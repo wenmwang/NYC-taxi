@@ -12,7 +12,7 @@ The analysis itself involves exploratory data analysis and unsupervised learning
 Here are some examples of analysis results visualized.
 
 ![Rush Hour Trip Time to JFK Heat Map]
-(https://github.com/wenmwang/NYC-taxi/blob/master/JFK_r.png)
+(NYC-taxi/JFK_r.png)
 
 ![Rush Hour Trip Time to LGA Heat Map]
 (https://github.com/wenmwang/NYC-taxi/blob/master/LGA_r.png)
